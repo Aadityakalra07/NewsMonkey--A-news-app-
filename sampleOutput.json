@@ -1,0 +1,227 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": null,
+        "title": "2 teens from a Boston skating club, their mothers, and coaches among passengers on downed flight - The Associated Press",
+        "description": "Passengers aboard the American Airlines flight that collided with an Army helicopter and crashed into the Potomac River included teen figure skaters returning from the U.S. Figure Skating Championships and their Russian coaches. U.S. Figure Skating said Thurs…",
+        "url": "https://apnews.com/article/washington-plane-collision-victims-ee829891574aa35a30d8262b7e07e638",
+        "urlToImage": "https://dims.apnews.com/dims4/default/83da8cb/2147483647/strip/true/crop/4712x2651+0+246/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8a%2F5b%2Fb0717499b61d71724780803f293b%2Ff0238a4eced8479e9f2848ec45cd653a",
+        "publishedAt": "2025-01-30T16:10:00Z",
+        "content": "WASHINGTON (AP) Passengers aboard the American Airlines flight that collided with an Army helicopter and crashed into the frigid waters of the Potomac River included teen figure skaters, their mother… [+2973 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Lisa Respers France",
+        "title": "Grammys 2025: All the announced performers - CNN",
+        "description": "Music’s biggest night is happening Sunday and the lineup of scheduled performers is pretty impressive.",
+        "url": "https://www.cnn.com/2025/01/30/entertainment/grammys-2025-performers/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/20250130-grammys.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2025-01-30T15:57:00Z",
+        "content": "Musics biggest night is happening Sunday and the lineup of scheduled performers is pretty impressive.\r\nThe Grammy Awards air live from Los Angeles and will be hosted again this year by Trevor Noah. T… [+1003 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "US economic growth slows despite consumers spending - BBC.com",
+        "description": "The world's largest economy missed forecasts after expanding at 2.3% between October and December.",
+        "url": "https://www.bbc.com/news/articles/cgrn1jex49yo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7a91/live/5ef716d0-df1a-11ef-ab2e-d5bb9715ff2c.jpg",
+        "publishedAt": "2025-01-30T15:06:11Z",
+        "content": "Economic growth in the US slowed at the end of last year, as trade and investment declined and the country was hit by hurricanes and labour strikes.\r\nThe economy expanded at an annual rate of 2.3% be… [+1939 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Rachel Roubein, Liz Goodwin, Lena H. Sun",
+        "title": "Mitch McConnell had polio as a child. It could cloud RFK Jr.’s nomination. - The Washington Post",
+        "description": "The Republican senator’s childhood bout with the disease has informed his ardent support for vaccines amid increasing skepticism of them within his party.",
+        "url": "https://www.washingtonpost.com/health/2025/01/30/mitch-mcconnell-had-polio-child-it-could-cloud-rfk-jrs-nomination/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H7TLP6JILKYIWGABHGCOPJCJXQ_size-normalized.jpg&w=1440",
+        "publishedAt": "2025-01-30T14:39:44Z",
+        "content": "Stricken with polio in 1944, 2-year-old Mitch McConnell spent his days confined to bed or undergoing a strict physical therapy regimen to rehabilitate his left leg at an age when most toddlers cannot… [+11821 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The News Journal"
+        },
+        "author": "Krys'tal Griffin",
+        "title": "How to prevent the spread of tuberculosis, symptoms to know amid the outbreak in Kansas - The News Journal",
+        "description": "Kansas is currently dealing with a tuberculosis outbreak that is unprecedented in the U.S. What we know about Delaware's infection rates, staying safe",
+        "url": "https://www.delawareonline.com/story/news/2025/01/29/tuberculosis-outbreak-spreading-kansas-stay-safe-delaware/77995384007/",
+        "urlToImage": "https://www.delawareonline.com/gcdn/authoring/authoring-images/2025/01/27/USAT/77972825007-1215025458.jpg?crop=3117,1753,x0,y0&width=3117&height=1753&format=pjpg&auto=webp",
+        "publishedAt": "2025-01-30T14:18:02Z",
+        "content": "As Kansas deals with an ongoing tuberculosis outbreak the largest in recorded history in the United States you might be wondering if the threat of TB could make its way to Delaware. \r\nHeres what we k… [+5123 chars]"
+      },
+      {
+        "source": {
+          "id": "ign",
+          "name": "IGN"
+        },
+        "author": null,
+        "title": "Where to Preorder Nvidia GeForce RTX 5090 and RTX 5080 Prebuilt Gaming PCs - IGN",
+        "description": null,
+        "url": "https://www.ign.com/articles/where-to-preorder-rtx-5090-and-rtx-5080-prebuilt-gaming-pcs",
+        "urlToImage": null,
+        "publishedAt": "2025-01-30T14:13:29Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Tom Warren",
+        "title": "Nvidia’s latest GPU driver lets you activate DLSS 4 in games and apps - The Verge",
+        "description": "Nvidia is releasing new GPU drivers and an Nvidia app update that enable DLSS 4 in games and apps. You don’t have to wait on developers to update their games.",
+        "url": "https://www.theverge.com/news/602963/nvidia-dlss-4-game-ready-driver-release",
+        "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25343231/STK083_NVIDIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2025-01-30T14:01:11Z",
+        "content": "The RTX 50 series launches today, but Nvidia is giving existing RTX owners some exciting updates.\r\nThe RTX 50 series launches today, but Nvidia is giving existing RTX owners some exciting updates.\r\nN… [+2428 chars]"
+      },
+      {
+        "source": {
+          "id": "techcrunch",
+          "name": "TechCrunch"
+        },
+        "author": "Kyle Wiggers",
+        "title": "Ai2 says its new AI model beats one of DeepSeek’s best - TechCrunch",
+        "description": "Move over, DeepSeek. Seattle-based nonprofit AI lab Ai2 has released a benchmark-topping model called Tulu3-405B.",
+        "url": "https://techcrunch.com/2025/01/30/ai2-says-its-new-ai-model-beats-one-of-deepseeks-best/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1308719817.jpg?resize=1200,800",
+        "publishedAt": "2025-01-30T14:00:00Z",
+        "content": "Move over, DeepSeek. There’s a new AI champion in town and they’re American. \r\nOn Thursday, Ai2, a nonprofit AI research institute based in Seattle, released a model that it claims outperforms DeepSe… [+2228 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Variety"
+        },
+        "author": "Katcy Stephan",
+        "title": "Netflix 2025 Film Slate: 'Knives Out 3,' 'Old Guard 2' and More - Variety",
+        "description": "Netflix has unveiled its wide-ranging 2025 film slate, including films like \"The Old Guard 2,\" \"Frankenstein,\" \"Jay Kelly\" and \"Rip.\"",
+        "url": "https://variety.com/2025/film/news/netflix-2025-film-slate-knives-out-3-old-guard-2-releases-1236290633/",
+        "urlToImage": "https://variety.com/wp-content/uploads/2025/01/netflixmovies2025.png?w=1000&h=563&crop=1",
+        "publishedAt": "2025-01-30T14:00:00Z",
+        "content": "Tudum! Netflix has unveiled its wide-ranging 2025 film slate. During a news-packed “Next on Netflix” presentation featuring appearances from celebrity guests Tina Fey, Ben Affleck, John Mulaney and t… [+11583 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "Top 2026 NFL head coaching candidates: Mike McCarthy, Kliff Kingsbury among big names set to be available - CBS Sports",
+        "description": "Who could headline next offseason's wish list?",
+        "url": "https://www.cbssports.com/nfl/news/top-2026-nfl-head-coaching-candidates-mike-mccarthy-kliff-kingsbury-among-big-names-set-to-be-available/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/01/13/33f8dab7-7313-4f05-a50c-49be7a1ef893/thumbnail/1200x675/6d68fde02f633ad207081d86b58d4aef/gettyimages-2192522203-1.jpg",
+        "publishedAt": "2025-01-30T13:37:36Z",
+        "content": "The 2024 NFL season is nearly in the books, with only Super Bowl LIX left to play as the Kansas City Chiefs and Philadelphia Eagles square off for the ultimate prize. Most other teams have turned the… [+2497 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "Most valuable player for each NFL team: Saquon Barkley key cog for Eagles during 2024 season - CBS Sports",
+        "description": "Here is each NFL team's MVP for 2024",
+        "url": "https://www.cbssports.com/nfl/news/most-valuable-player-for-each-nfl-team-season-saquon-barkley-key-cog-for-eagles-during-2024-season/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/01/27/8126dc6b-6d39-47d4-b239-5c106c00316d/thumbnail/1200x675/2663ff9cc754039a9d5b4c241bda016e/saquon-barkley-cbs-2.jpg",
+        "publishedAt": "2025-01-30T13:27:57Z",
+        "content": "The 2024 regular season is in the rearview mirror and all that's left before we put the entire year to bed is Super Bowl LIX. While the Kansas City Chiefs and Philadelphia Eagles are gearing up for t… [+13924 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "MARCIA DUNN",
+        "title": "NASA’s 2 stuck astronauts take their first spacewalk together - The Associated Press",
+        "description": "NASA's two stuck astronauts are taking their first spacewalk together, exiting the International Space Station almost eight months after moving in. Suni Williams and Butch Wilmore floated out Thursday to perform maintenance work and wipe down the station's ex…",
+        "url": "https://apnews.com/article/nasa-stuck-astronauts-spacewalk-2cb2b5897892449f9d4661449a88de1c",
+        "urlToImage": "https://dims.apnews.com/dims4/default/e3f7896/2147483647/strip/true/crop/1920x1080+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F73%2F68%2F1ca5a0171906c001cdcf12de3ea0%2F1e79f52e52ba445bbb4af01d6a0b5dbc",
+        "publishedAt": "2025-01-30T12:57:00Z",
+        "content": "CAPE CANAVERAL, Fla. (AP) NASAs two stuck astronauts took their first spacewalk together Thursday, exiting the International Space Station almost eight months after moving in.\r\nCommander Suni William… [+1158 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Gizmodo.com"
+        },
+        "author": "Gizmodo Deals",
+        "title": "Samsung Goes All in for the Galaxy S25 Launch: 70% Off if You Buy It by Friday - Gizmodo",
+        "description": "Samsung wants to leave no chance to the competition.",
+        "url": "https://gizmodo.com/samsung-goes-all-in-for-the-galaxy-s25-launch-70-off-if-you-buy-it-by-friday-2000556646",
+        "urlToImage": "https://gizmodo.com/app/uploads/2025/01/galaxy-s25-ultra.jpg",
+        "publishedAt": "2025-01-30T12:45:36Z",
+        "content": "Last week, Samsung unveiled its much anticipated Galaxy S25 Series and the pre-order offers available until January 31, 2025 are nothing short of revolutionary. These deals are so exceptional that th… [+2958 chars]"
+      },
+      {
+        "source": {
+          "id": "wired",
+          "name": "Wired"
+        },
+        "author": "Aarian Marshall",
+        "title": "DeepSeek Has Taught AI Startups a Lesson Automakers Learned Years Ago - WIRED",
+        "description": "In the DeepSeek AI saga, global technologists are relearning the lessons of the Chinese auto boom.",
+        "url": "https://www.wired.com/story/china-taught-ai-startups-a-lesson-automakers-learned-years-ago/",
+        "urlToImage": "https://media.wired.com/photos/679a49e6091ba16de25bce5f/191:100/w_1280,c_limit/china-evs-xpeng-gear-2195212264.jpg",
+        "publishedAt": "2025-01-30T12:30:00Z",
+        "content": "This week, some auto industry observers felt a creeping sense of déjà vu. Seemingly out of nowhere, a Chinese firm made international headlines by besting Western companies at the tech they supposedl… [+3146 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Sophie Kiderlin",
+        "title": "European Central Bank delivers expected 25-basis-point interest rate cut: Live updates - CNBC",
+        "description": "The European Central Bank on Thursday cut interest rates for the fifth time since it began easing monetary policy.",
+        "url": "https://www.cnbc.com/2025/01/30/european-central-bank-interest-rate-decision-january-2025.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/108094824-1738246879086-gettyimages-2196760067-dsc_0196_r56ba5e6.jpeg?v=1738247196&w=1920&h=1080",
+        "publishedAt": "2025-01-30T12:07:00Z",
+        "content": "\"The January Governing Council meeting falls into the 'nothing to see here, move along' category,\" Deutsche Bank Chief Europe Economist Mark Wall said in a note on Thursday.\r\nLittle has changed in th… [+827 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NPR"
+        },
+        "author": "",
+        "title": "As drinks targeting kids have soared, there's new guidance on what's healthy - NPR",
+        "description": "As highly caffeinated energy drinks have become popular with kids, a coalition of health organizations has new guidelines on what's a healthy beverage.  Some of the advice may surprise parents.",
+        "url": "https://www.npr.org/sections/shots-health-news/2025/01/30/nx-s1-5276147/soda-drinks-kids-beverages-healthy",
+        "urlToImage": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2953x1661+0+112/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fde%2F54%2F5bc6738e46ec8d869662a263b873%2Fgettyimages-1262372690.jpg",
+        "publishedAt": "2025-01-30T12:00:00Z",
+        "content": "Kids and teens should mostly stick to water and plain milk and avoid drinks with added sugar, artificial sweeteners and caffeine. That's according to new recommendations from a coalition of health an… [+4812 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "mlive.com"
+        },
+        "author": "The Associated Press",
+        "title": "Newly-discovered asteroid could hit Earth in 2032 - MLive.com",
+        "description": "NASA says there's a tiny chance it could collide with Earth, and it's much too soon to know where that impact could be.",
+        "url": "https://www.mlive.com/news/2025/01/newly-discovered-asteroid-could-hit-earth-in-2032.html",
+        "urlToImage": "https://www.mlive.com/resizer/v2/5L4KSXPPCFEE7NRRLQRUD5YD5Y.jpg?auth=ebea290133446279b181a50edf918a57cbe169aa358a9e0cdfe9af3736143cd8&width=1280&quality=90",
+        "publishedAt": "2025-01-30T11:40:00Z",
+        "content": "By MARCIA DUNN AP Aerospace Writer\r\nCAPE CANAVERAL, Fla. (AP) A newly discovered asteroid has a tiny chance of smacking Earth in 2032, space agency officials said Wednesday.\r\nScientists put the odds … [+2179 chars]"
+      }
+    ]
+  }
