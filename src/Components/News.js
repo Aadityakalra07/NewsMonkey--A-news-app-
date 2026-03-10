@@ -80,7 +80,11 @@ export class News extends Component {
     render() {
         return (
             <>
-                <h1 className='text-center'>NewsMonkey- Top {this.capatilizeFirstLetter(this.props.category) } Headlines </h1>
+                <h2 className='text-center' style={{ marginTop: '90px', marginBottom: '30px', fontWeight: '700', color: '#1a1a2e' }}>
+                    <span style={{ borderBottom: '3px solid #e94560', paddingBottom: '8px' }}>
+                        Top {this.capatilizeFirstLetter(this.props.category)} Headlines
+                    </span>
+                </h2>
                 {this.state.loading && <Spinner />}
                 <InfiniteScroll
                     dataLength={this.state.articles.length}
@@ -88,19 +92,17 @@ export class News extends Component {
                     hasMore={this.state.articles.length !== this.state.totalResults}
                     loader={<Spinner/>}
                     >
-                   <div className="container">
-                  <div className="container">  
-                <div className="row">
-                    {this.state.articles.map((element) => {
-                        return <div className="col md-4 " key={element.url}>
-                            <NewsItem title={element.title ? element.title.slice(0, 45) : ""} description={element.description ? element.description.slice(0, 45) : "No Description Available"} imageUrl={element.urlToImage} newsUrl={element.url} author={element.author} date={element.publishedAt} source={element.source.name} />
+                    <div className="container">
+                        <div className="row g-4">
+                            {this.state.articles.map((element) => {
+                                return <div className="col-12 col-sm-6 col-lg-4" key={element.url}>
+                                    <NewsItem title={element.title ? element.title.slice(0, 45) : ""} description={element.description ? element.description.slice(0, 45) : "No Description Available"} imageUrl={element.urlToImage} newsUrl={element.url} author={element.author} date={element.publishedAt} source={element.source.name} />
+                                </div>
+                            })}
                         </div>
-                    })}
-                </div>
-                </div>
-                </div> 
+                    </div>
                 </InfiniteScroll>
-            </ >
+            </>
         )
     }
 }
